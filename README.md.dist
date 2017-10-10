@@ -1,0 +1,27 @@
+# <PROJECT NAME>
+
+## Overview
+
+// Add a high level summary of why this codebase exists and what its goals are
+
+## Requirements
+
+You will need <Language> version <Version>.
+
+// List any other requirements that won't be auto installed by the setup command
+
+## Setup
+
+// How to install the dependencies e.g. `npm install`
+
+## Run - Development
+
+// How to run the codebase in development mode  e.g. `npm start`
+
+// Include:
+// - any needed environment variables if not in a `.env.dist` file
+// - include any configuration files needed and the nature of their contents - ideally provide a sample configuration with placeholder variables
+
+## Run - Production
+
+// How to run / build the the codebase for production e.g. `npm build`

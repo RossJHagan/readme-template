@@ -14,13 +14,15 @@ You will need <Language> version <Version>.
 
 // How to install the dependencies e.g. `npm install`
 
-## Run - Development
-
-// How to run the codebase in development mode  e.g. `npm start`
+## Configuration / Environment
 
 // Include:
 // - any needed environment variables if not in a `.env.dist` file
 // - include any configuration files needed and the nature of their contents - ideally provide a sample configuration with placeholder variables
+
+## Run - Development
+
+// How to run the codebase in development mode  e.g. `npm start`
 
 ## Run - Production
 
